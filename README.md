@@ -1,27 +1,31 @@
-## Hi there 👋
-Product engineer with 4+ years of experience building web interfaces — currently expanding into DevOps and cloud infrastructure.
+# Viktor Lantos
 
-Open to new opportunities.
+Product engineer with 4+ years of experience building web applications. Currently expanding into DevOps and cloud infrastructure.
 
----
-
-### 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+Open to new opportunities · Berlin, Germany
 
 ---
 
-### 🌱 Currently Learning
+### Stack
 
-- CI/CD with **GitHub Actions**
-- Cloud deployment on **Oracle Cloud Free Tier**
-- Observability with **Prometheus · Grafana · Loki**
+```
+Frontend         React · TypeScript · Vite · Tailwind CSS
+Backend          Node.js · Express · PostgreSQL · Redis
+Infrastructure   Docker · Nginx · GitHub Actions · Oracle Cloud
+Observability    Prometheus · Grafana · Loki
+```
 
 ---
 
-*Based in Berlin 📍*
+### Current Focus
+
+- Building a full-stack application with a complete CI/CD pipeline deployed to Oracle Cloud
+- Deepening knowledge of container orchestration, reverse proxies, and observability
+
+---
+
+### Certifications
+
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/5f33a8c7-6e76-47b4-a139-eb4776a17ea3)
+
+AWS Cloud Quest: Cloud Practitioner — Amazon Web Services
