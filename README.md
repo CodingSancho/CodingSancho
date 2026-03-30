@@ -11,6 +11,39 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...# Hey, I'm Viktor 👋
+
+Product engineer with 4+ years of experience building web interfaces — currently expanding into DevOps and cloud infrastructure.
+
+Open to new opportunities.
+
+---
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+
+- CI/CD with **GitHub Actions**
+- Cloud deployment on **Oracle Cloud Free Tier**
+- Observability with **Prometheus · Grafana · Loki**
+
+---
+
+### 📊 GitHub Stats
+
+![CodingSancho's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingSancho&show_icons=true&hide_border=true&theme=default)
+
+---
+
+*Based in Berlin 📍*
 - ⚡ Fun fact: ...
 -->
