@@ -24,10 +24,4 @@ Open to new opportunities.
 
 ---
 
-### 📊 GitHub Stats
-
-![CodingSancho's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingSancho&show_icons=true&hide_border=true&theme=default)
-
----
-
 *Based in Berlin 📍*
