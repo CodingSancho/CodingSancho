@@ -25,7 +25,6 @@ Observability    Prometheus · Grafana · Loki
 ---
 
 ### Certifications
-
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/5f33a8c7-6e76-47b4-a139-eb4776a17ea3)
+<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" alt="AWS Cloud Quest: Cloud Practitioner" />
 
 AWS Cloud Quest: Cloud Practitioner — Amazon Web Services
