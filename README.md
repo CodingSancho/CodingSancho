@@ -31,5 +31,3 @@ Open to new opportunities.
 ---
 
 *Based in Berlin 📍*
-- ⚡ Fun fact: ...
--->
