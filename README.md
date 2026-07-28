@@ -9,7 +9,7 @@ Open to new opportunities · Berlin, Germany
 ### Stack
 
 ```
-Frontend         React · TypeScript · Vite · Tailwind CSS
+Frontend         React · TypeScript · Vite / Next.js · Tailwind CSS
 Backend          Node.js · Express · PostgreSQL · Redis
 Infrastructure   Docker · Nginx · GitHub Actions · Oracle Cloud
 Observability    Prometheus · Grafana · Loki
