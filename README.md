@@ -1,9 +1,4 @@
 # Viktor Lantos
-
-Product engineer with 4+ years of experience.
-
-Open to new opportunities · Berlin, Germany
-
 ---
 
 ### Stack
