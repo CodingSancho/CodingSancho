@@ -1,5 +1,4 @@
 # Viktor Lantos
----
 
 ### Stack
 
