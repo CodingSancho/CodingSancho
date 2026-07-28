@@ -1,6 +1,6 @@
 # Viktor Lantos
 
-Product engineer with 4+ years of experience building web applications. Currently expanding into DevOps and cloud infrastructure.
+Product engineer with 4+ years of experience.
 
 Open to new opportunities · Berlin, Germany
 
